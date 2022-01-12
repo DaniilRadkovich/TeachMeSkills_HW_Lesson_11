@@ -1,0 +1,9 @@
+2. ergergb7498e1v6ertg4 --> Document don't starts with 'docnum' or 'contract'!
+3. docnum333sergkslm --> Wrong document length(17)!
+5. contract55svsee5egbv57g --> Wrong document length(23)!
+6. docnum6see --> Wrong document length(10)!
+7. fjnijr125dt5y --> Document don't starts with 'docnum' or 'contract'!
+9. contract8sgegv --> Wrong document length(14)!
+11. kekchebureck659 --> Document don't starts with 'docnum' or 'contract'!
+12. docnum10seg5564g --> Wrong document length(16)!
+14. contract12sergbdthj --> Wrong document length(19)!
